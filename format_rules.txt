@@ -1,0 +1,4 @@
+name=STRING
+age=INTEGER
+email=STRING
+address=STRING

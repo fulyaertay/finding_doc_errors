@@ -1,0 +1,6 @@
+name=Fulya
+age=30
+email=fulya@ai.com
+invalid_line
+address=
+age=thirty
